@@ -4,5 +4,6 @@ References Taken  from Sebastian Raschka book
 
 
 Steps taken:
-Byte Pair Encoding
+PDF of doc taken
+Byte Pair Encoding for tokenization
 
