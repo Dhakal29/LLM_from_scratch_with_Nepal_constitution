@@ -1,4 +1,4 @@
-# Large Language Model from Scratch with Nepal Constitution
+#Created Large Language Model from Scratch with Nepal Constitution
 
 References Taken  from Sebastian Raschka book
 
